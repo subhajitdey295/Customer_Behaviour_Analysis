@@ -1,5 +1,4 @@
-🛒 Customer_Behaviour_Analysis
-Data Analysis project showcasing customer behaviour analysis using Python, SQL, and Power BI.
+🛒 Customer_Behaviour_Analysis project showcasing customer behaviour analysis using Python, SQL, and Power BI.
 
 🌟 Overview: This repository contains an end-to-end data analytics project focused on understanding consumer shopping behavior for a leading retail company. The primary objective is to transform raw customer data into actionable business intelligence to optimize marketing strategies, enhance customer engagement, and drive long-term loyalty. The lifecycle of the project spans data engineering in Python, relational database analysis in PostgreSQL, executive dashboard development in Power BI, and AI-assisted stakeholder presentation generation using Gamma. 
 
